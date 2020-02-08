@@ -1,0 +1,42 @@
+_repo: False-Dawn-The-Forties_61297
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Caswell, Edward C.
+    alias: Caswell, E. C. (Edward C.)
+    birthdate: 1879
+    deathdate: 1963
+    gutenberg_agent_id: '31826'
+    url: http://www.gutenberg.org/2009/agents/31826
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+description: Book 1 of "Old New York."
+gutenberg_issued: '2020-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61297'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americans -- Europe -- Fiction'
+- !lcsh 'New York (N.Y.) -- Social life and customs -- Fiction'
+- !lcsh 'Art -- Collectors and collecting -- Fiction'
+- !lcsh 'Children of the rich -- Fiction'
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: False Dawn (The 'Forties)
+url: http://www.gutenberg.org/ebooks/61297
